@@ -4,3 +4,9 @@ def print_hello():
 if __name__ == '__main__':
     print_hello()
 
+def print_ahu():
+    print("Hello World!!")
+    
+if __name__ == '__main__':
+    print_ahu()
+    
