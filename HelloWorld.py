@@ -5,9 +5,8 @@ if __name__ == '__main__':
     print_hello()
 
 def print_ahu():
-    print("Hello World!!")
+    print("a hu!!")
     
 if __name__ == '__main__':
     print_ahu()
     
-print("a hu")
