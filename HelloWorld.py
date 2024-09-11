@@ -10,4 +10,4 @@ def print_ahu():
 if __name__ == '__main__':
     print_ahu()
     
-print("¾îÈŞ")
+print("a hu")
